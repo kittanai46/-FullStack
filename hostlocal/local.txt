@@ -1,0 +1,6 @@
+LocalHost:8080
+
+http://localhost:8080
+http://localhost:8080/?id=55
+http://localhost:8080/enroll
+http://localhost:8080/h2-console
